@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+/*font-family: 'Roboto', sans-serif;*/
+*{
+	padding:0px;
+	margin:0px;
+}
+.img{
+	max-width:100%;
+	height:auto;
+}
+.head-sec{
+	height:110px;
+	background:#fff;
+}
+.mid{
+	margin:0px 80px;
+}
+.pqr{
+}
+.pqr img{
+	float:left;
+	margin-top:10px;
+}
+.pqr nav{
+	padding:45px 0px;
+	float:left;
+	margin-left:196px;
+}
+.pqr nav a{
+	margin-left:47px;
+	font-family:'Roboto', sans-serif;
+	font-weight:400;
+	font-size:14px;
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#453592;
+}
+.pqr button{
+	margin-top:30px;
+	margin-left:60px;
+	background:#e26c00;
+	padding:10px 20px;
+	border-radius:10px;
+	font-family:'Roboto', sans-serif;
+	color:white;
+	font-size:14px;
+	text-transform:uppercase;
+	border:none;
+}
+
+/*---------------------------------------*/
+
+.bnr-sec{
+	height:508px;
+	background:url(images/1_02.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+.bnr{
+	padding-top:227px;
+}
+.bnr h1{
+	font-family:'Roboto', sans-serif;
+	font-weight:400;
+	font-size:24px;
+	text-transform:uppercase;
+	color:#fff;
+	margin-left:143px;
+	padding:13px 0px;
+	background:#000;
+	width:544px;
+	opacity:0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
